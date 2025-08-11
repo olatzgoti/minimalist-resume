@@ -62,16 +62,20 @@ const resumeSchema = z.object({
       name: z.string(),
     })
   ),
-  projects: z.array(
-    z.object({
-      name: z.string(),
-      description: z.string(),
-    //  url: z.string().url(),
-      highlights: z.array(z.string()),
-      github: z.string().url().optional(),
-      isActive: z.boolean().optional().default(false),
-    })
+  projects: z.object({
+      message: z.string(),
+        items: z.array(
+          z.object({
+            name: z.string(),
+            description: z.string(),
+            url: z.string().url().optional(),
+            highlights: z.array(z.string()),
+            github: z.string().url().optional(),
+            isActive: z.boolean().optional().default(false),       
+    }    
   ),
+  )
+})
 });
 
 const resumeCollection = defineCollection({
