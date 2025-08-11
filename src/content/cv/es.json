@@ -174,30 +174,18 @@
     },
     {
       "name": "Blog Personal",
-      "isActive": true,
-      "description": "Mi blog personal donde comparto mis experiencias y conocimientos sobre desarrollo web, productividad y otros temas interesantes.",
-      "highlights": [
-        "Multidioma",
-        "Optimizado para SEO",
-        "100/100 en Lighthouse",
-        "Preparado para PWA",
-        "Astro"
-      ],
+      "isActive": false,
+      "description": "Frontend de una red social donde se pueden escribir posts, loguear, likearlos y subir imágenes.",
+      "highlights":  ["Node.js","Express","Mongoose","React + Vite","Redux"],
     
-      "github": "https://github.com/INGCapaDev/my-blog"
+      "github": "https://github.com/olatzgoti/Social_Media_React"
     },
     {
-      "name": "JB Baseball Game",
-      "isActive": true,
-      "description": "Un simulador de juego de béisbol que te permite marcar todas las jugadas disponibles en un juego de béisbol y guardar un registro de las jugadas de los jugadores.",
-      "highlights": [
-        "Orientado a pantalla completa",
-        "Efectos de sonido",
-        "Gestión de estado compleja",
-        "React",
-        "Redux Toolkit"
-      ],
-        "github": "https://github.com/INGCapaDev/baseball-game-react"
+      "name": "SocialMedia-backend",
+      "isActive": false,
+      "description": "Proyecto de red social con react para aprender los fundamentos del framework.",
+      "highlights":  ["User registration", "CRUD", "Validations", "Multer", "Like/Remove/Update post"],
+        "github": "https://github.com/olatzgoti/SocialMedia-backend"
     }
   ]
 }

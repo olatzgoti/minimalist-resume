@@ -40,7 +40,7 @@
       "position": "Full-Stack Developer",
       "startDate": "2024-04-08",
       "endDate": "2024-04-22",
-      "summary": "We developed several utilities for an independent asset management and advisory tool, and also implemented various views and interfaces for the product. I applied the necessary styles to each component. I also took responsibility for the project, communicating with the client and ensuring that their needs were met.",
+      "summary": "I developed several utilities for an independent asset management and advisory tool, and also implemented various views and interfaces for the product. I applied the necessary styles to each component. I also took responsibility for the project, communicating with the client and ensuring that their needs were met.",
       "highlights": [""],
       "isRemote": false
     },
@@ -56,12 +56,25 @@
   ],
   "education": [
     {
-      "institution": "Universidad Politécnica de Sinaloa",
-      "area": "Information Technology Engineering",
-      "startDate": "2020-08-20",
-      "endDate": "2023-07-10"
+      "institution": "C2B",
+      "area": "Desarrollo Web",
+      "startDate": "2024-05-20",
+      "endDate": "2024-09-10"
+    },
+    {
+      "institution": "BBK Bootcamps The Bridge",
+      "area": "FullStack Development",
+      "startDate": "2023-09-20",
+      "endDate": "2024-05-10"
+    },
+    {
+      "institution": "IFAP Centro de Formación",
+      "area": "Desarrollo de aplicaciones Web",
+      "startDate": "2023-02-20",
+      "endDate": "2023-05-30"
     }
   ],
+  
   "certificates": [
     {
       "name": "Certificado de Nivel Intermedio de Inglés (B2)",
@@ -128,7 +141,7 @@
       "name": "Communication"
     },
     {
-      "name": "Leadership"
+      "name": "Active listening"
     },
     {
       "name": "Teamwork"
@@ -137,21 +150,18 @@
       "name": "Critical thinking"
     },
     {
-      "name": "Growth mindset"
+      "name": "Customer focus"
     },
     {
-      "name": "Time management"
-    },
-    {
-      "name": "Innovation"
+      "name": "Adapting to change"
     }
   ],
   "projects": {
-  "message": "DISCLAIMER: Últimamente he estado centrada en trabajar y la búsqueda de empleo, por ello los projectos mostrados son de mi etapa formativa y no reflejan mi nivel actual. A medida que finalice los que estoy creando iré actualizándolos.",
+  "message": "DISCLAIMER: Lately, I have been focused on work and job hunting, so the projects shown are from my training period and do not reflect my current level. As I finish the ones I am creating, I will update them.",
   "items": [
     {
       "name": "BBK Talent Job",
-      "isActive": true,
+      "isActive": false,
       "description": "BBK Talent Job Web Application, a youth employment platform with various types of users so that companies and talent can find each other, network, and gain initial work experience.",
       "highlights": ["MongoDB",
       "JSON Web Token",
@@ -161,17 +171,17 @@
     },
     {
       "name": "Social Media React",
-      "isActive": true,
-      "description": "My personal blog ...",
-      "highlights": ["Multilanguage","SEO optimized","100/100 Lighthouse score","PWA Ready","Astro"],
-      "github": "https://github.com/INGCapaDev/my-blog"
+      "isActive": false,
+      "description": "Social Media Project using React to learn the bases of the framework",
+      "highlights": ["Node.js","Express","Mongoose","React + Vite","Redux"],
+      "github": "https://github.com/olatzgoti/Social_Media_React"
     },
     {
-      "name": "JB Baseball Game",
+      "name": "SocialMedia-backend",
       "isActive": true,
-      "description": "A baseball game simulator, ...",
-      "highlights": ["Fullscreen oriented","Sound effects","Complex state management","React","Redux Toolkit"],
-      "github": "https://github.com/INGCapaDev/baseball-game-react"
+      "description": "Backend for Social media",
+      "highlights": ["User registration","CRUD","Validations","Multer","Like/Remove/Update post"],
+      "github": "https://github.com/olatzgoti/SocialMedia-backend"
     }
   ]
 }
