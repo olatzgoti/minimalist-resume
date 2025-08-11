@@ -1,60 +1,55 @@
 {
   "basics": {
-    "name": "Alvaro Capaceta Magallanes",
-    "label": "Full-Stack Developer with a Backend focus, specializing in web development and dedicated to creating impactful and functional digital experiences",
-    "image": "/me.webp",
-    "email": "ingcapadev@gmail.com",
-    "phone": "+52 6692108089",
-    "url": "https://ingcapadev.com",
+    "name": "Olatz Goti",
+    "label": "Web Developer Junior with a Backend focus, specializing in web development and dedicated to creating impactful and functional digital experiences",
+    "image": "/me.png",
+    "email": "gotiolatz@gmail.com",
+    "phone": "+34 620801984",
+    "url": "https://olatzgoti.site",
     "summary": [
       {
-        "paragraph": "I'm a guy striving to make a mark in the web development world under the name INGCapaDev. I have experience in startup environments, where I've accelerated development and collaborating on client projects. My proactive problem-solving skills ensure optimal functionality, stunning design, and exceptional user experiences."
+        "paragraph": "I consider myself curious 🔍(so much so that my dream is to be a private investigator), with good listening skills and initiative. I don't know everything, but my passion is solving problems 💡, finding the necessary resources to extract information and coding a solution that improves the product or helps to make someone's work easier. I am realistic and thoughtful, eager to learn and delve deeper. I firmly believe in constant change based on a coherent vision, and in teams where trust and mutual learning are encouraged."
       },
       {
-        "paragraph": "Fueled by my passion for productivity, I create custom tools to boost efficiency, often becoming my own client. I share my journey and insights on my personal blog, which you can find linked in the projects section, merging my love for web development with my commitment to self-improvement."
+        "paragraph": "Committed to what I think and what I do, I work with focus and responsibility on each project, where I seek to contribute to the team with concrete solutions, thus contributing to this stage of change and growth that this profession entails, in a practical, realistic, and effective way 🚀 😊."
       },
       {
-        "paragraph": "My goal is to simplify and enhance people's lives through digital innovation, cultivating and expanding the INGCapaDev brand, and creating a lasting impact on the web development community."
+        "paragraph": "My goal is to continue working in the development sector, deepen my knowledge and gain a greater understanding of the systems used. I also greatly value the creation of a community where we can share our progress and support each other, so feel free to connect with me 🤝."
       }
     ],
     "location": {
-      "city": "Mazatlan",
-      "region": "Sinaloa"
+      "city": "Bilbao",
+      "region": "Bizkaia"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "ingcapadev",
-        "url": "https://github.com/ingcapadev"
+        "username": "olatzgoti",
+        "url": "https://github.com/olatzgoti"
       },
       {
         "network": "LinkedIn",
-        "username": "ingcapadev",
-        "url": "https://www.linkedin.com/in/ingcapadev/"
-      },
-      {
-        "network": "X",
-        "username": "@fta_capa",
-        "url": "https://x.com/fta_capa"
+        "username": "olatzgoti",
+        "url": "https://www.linkedin.com/in/olatzgoti/"
       }
     ]
   },
   "work": [
     {
-      "name": "Voltz",
+      "name": "Irontec",
       "position": "Full-Stack Developer",
-      "startDate": "2023-10-02",
-      "endDate": null,
-      "summary": "Development of a quoting and e-commerce tool for the sale of electrical materials, I collaborated on the design and implementation of various e-commerce views and interfaces. Additionally, I developed TypeScript scripts to manage our Firebase database at scale. I also designed APIs for comprehensive data collection analytics, implemented artificial intelligence features into a chatbot, and successfully redesigned the checkout process to significantly increase sales conversion rates.",
+      "startDate": "2024-04-08",
+      "endDate": "2024-04-22",
+      "summary": " developed several utilities for an independent asset management and advisory tool, and also implemented various views and interfaces for the product. I applied the necessary styles to each component. I also took responsibility for the project, communicating with the client and ensuring that their needs were met.",
       "highlights": [""],
-      "isRemote": true
+      "isRemote": false
     },
     {
-      "name": "Luthor Solutions",
+      "name": "Talent job BBK",
       "position": "Web Developer",
-      "startDate": "2023-06-02",
-      "endDate": "2023-10-02",
-      "summary": "Developed scalable APIs with NestJS, integrating Neo4J, SQL, Firebase, and SQLite databases. Created microservices for mailing, authentication, reporting, and storage using Firebase and Cloudflare R2. Implemented Google Analytics for data tracking across multiple websites. Designed dynamic, responsive landing pages with React, NextJS, and Tailwind CSS, and translated Figma designs into interactive websites. Built complex web applications using React, Vite, and Redux Toolkit for advanced state management and side effects.",
+      "startDate": "2024-04-08",
+      "endDate": "2024-04-22",
+      "summary": "We developed a web applications for multiple users protected with Json Web Token called Talent job BBK using React, MongoDB, Node.js, express, Sass. Created structure with authentication, and storage. Developed design created by the marketing team creating responsive landing pages.",
       "highlights": [""],
       "isRemote": true
     }
@@ -69,22 +64,34 @@
   ],
   "certificates": [
     {
-      "name": "Building Neo4j Applications with TypeScript",
-      "date": "2024-01-26",
-      "organization": "Neo4j GraphAcademy",
-      "url": "https://graphacademy.neo4j.com/c/39a38074-f78a-4476-b185-224f6280781e/"
+      "name": "Certificado de Nivel Intermedio de Inglés (B2)",
+      "date": "2020-11-17",
+      "organization": "Gobierno Vasco",
+      "url": "https://drive.google.com/file/d/1Rg41tSt1Sr0jq_O6fSJF4iFvsXlGwLLF/view?usp=sharing"
     },
     {
-      "name": "Introduction to Web Development II",
-      "date": "2021-12-02",
-      "organization": "Google, Universidad de Alicante",
-      "url": "https://drive.google.com/file/d/16Q-7lxWhN3X8MnIWxV7z1I9OXaTXugwz/view?usp=sharing"
+      "name": "Diplôme d'etudes en Langue Française DELF B2",
+      "date": "2019-03-25",
+      "organization": "Ministère de l'Éducation nationale et de la Jeunesse",
+      "url": "https://drive.google.com/file/d/15Bja_zuNnZRHTFfuUBaG6vHJ4ZleiQoM/view?usp=sharing"
     },
     {
-      "name": "Introduction to Web Development I",
-      "date": "2021-11-25",
-      "organization": "Google, Universidad de Alicante",
-      "url": "https://drive.google.com/file/d/1D2yXuSt64IOwhvCbvreHXzRkIfhW3IGu/view?usp=sharing"
+      "name": "Desarrollo Web Full Stack",
+      "date": "2024-04-19",
+      "organization": "BBK bootcamps The Bridge",
+      "url": "https://drive.google.com/file/d/1gk6gfFMtc2XRH76N9aFQCKug8DYnqB5B/view?usp=sharing"
+    },
+    {
+      "name": "Full Stack Developer JavaScript y Python",
+      "date": "2024-11-26",
+      "organization": "Diputación foral de Bizkaia",
+      "url": "https://drive.google.com/file/d/1gk6gfFMtc2XRH76N9aFQCKug8DYnqB5B/view?usp=sharing"
+    },
+   {
+      "name": "Desarrollo de aplicaciones con tecnologías Web",
+      "date": "2023-09-11",
+      "organization": "Gobierno Vasco",
+      "url": "https://drive.google.com/file/d/1HM2xL51bcub9m_CGIgsMg2XLMiDvB0x-/view?usp=sharing"
     }
   ],
   "skills": [
@@ -92,37 +99,25 @@
       "name": "HTML"
     },
     {
-      "name": "CSS / Tailwind CSS"
+      "name": "CSS / Sass"
     },
     {
       "name": "JavaScript / TypeScript"
     },
     {
-      "name": "Git / GitHub"
+      "name": "Git / GitHub / GitLab"
     },
     {
-      "name": "Node.js / Express.js / NestJS"
+      "name": "Node.js / Express.js"
     },
     {
-      "name": "SQL / SQLite / Drizzle"
-    },
-    {
-      "name": "Firebase"
-    },
-    {
-      "name": "Neo4J"
+      "name": "SQL / SQLite / MySQL"
     },
     {
       "name": "React / Next.js"
     },
     {
-      "name": "Astro"
-    },
-    {
       "name": "Docker"
-    },
-    {
-      "name": "Cloudflare / Vercel / Google Cloud"
     }
   ],
   "softskills": [

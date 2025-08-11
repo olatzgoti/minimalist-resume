@@ -1,91 +1,110 @@
 {
   "basics": {
-    "name": "Alvaro Capaceta Magallanes",
-    "label": "Desarrollador Full-Stack con enfoque en Backend, especializado en desarrollo web y dedicado a crear experiencias digitales impactantes y funcionales",
-    "image": "/me.webp",
-    "email": "ingcapadev@gmail.com",
-    "phone": "+52 6692108089",
-    "url": "https://ingcapadev.com",
+    "name": "Olatz Goti",
+    "label": "Web Developer Junior, apasionada por la tecnología y comprender el funcionamiento de las cosas, en búsqueda de una oportunidad laboral, ya sea por cuenta ajena o por propia.",
+    "image": "/me.png",
+    "email": "gotiolatz@gmail.com",
+    "phone": "+34 620801984",
+    "url": "https://olatzgoti.site",
     "summary": [
       {
-        "paragraph": "Soy un chico esforzándose por dejar huella en el mundo del desarrollo web bajo el nombre de INGCapaDev. Tengo experiencia en entornos de startups, donde he acelerado el desarrollo y colaborando en proyectos para clientes. Mis habilidades proactivas para resolver problemas aseguran una funcionalidad óptima, un diseño impresionante y experiencias de usuario excepcionales."
+        "paragraph": "Me considero una persona curiosa 🔍(tanto que mi sueño es ser investigadora privada), con capacidad de escucha e iniciativa. No lo sé todo pero mi pasión es solucionar problemas 💡, buscar los recursos necesarios para extraer la información y codificar una solución que mejore el producto o colabore para facilitar el trabajo a alguien. Soy realista y reflexiva, con muchas ganas de aprender y profundizar. Creo firmemente en el cambio constante desde una visión coherente, y en equipos donde se fomente la confianza y el aprendizaje mutuo."
       },
       {
-        "paragraph": "Impulsado por mi pasión por la productividad, creo herramientas personalizadas para aumentar mi eficiencia, a menudo convirtiéndome en mi propio cliente. Comparto mi trayectoria y conocimientos en mi blog personal, el link se encuentra en la sección de proyectos, fusionando mi amor por el desarrollo web y mi compromiso con la superación personal."
+        "paragraph": "Comprometida con lo que pienso y con lo que hago, trabajo con foco y responsabilidad en cada proyecto, donde busco contribuir al equipo con soluciones concretas, pudiendo así contribuir en esta etapa de cambio y crecimiento que supone esta profesión, de una manera práctica, realista y eficaz 🚀 😊."
       },
       {
-        "paragraph": "Mi objetivo es simplificar y mejorar la vida de las personas a través de la innovación digital, cultivando y expandiendo la marca INGCapaDev, y creando un impacto duradero en la comunidad de desarrollo web."
+        "paragraph": "Mi objetivo es continuar en el sector del desarrollo, profundizar y adquirir una mayor comprensión de los sistemas utilizados, también valoro mucho el hecho de crear comunidad dónde poder compartir nuestros avances y apoyarnos así que sientete libre de conectar conmigo 🤝."
       }
     ],
 
     "location": {
-      "city": "Mazatlan",
-      "region": "Sinaloa"
+      "city": "Bilbao",
+      "region": "Bizkaia"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "ingcapadev",
-        "url": "https://github.com/ingcapadev"
+        "username": "olatzgoti",
+        "url": "https://github.com/olatzgoti"
       },
       {
         "network": "LinkedIn",
-        "username": "ingcapadev",
-        "url": "https://www.linkedin.com/in/ingcapadev/"
-      },
-      {
-        "network": "X",
-        "username": "@fta_capa",
-        "url": "https://x.com/fta_capa"
+        "username": "olatzgoti",
+        "url": "https://www.linkedin.com/in/olatzgoti/"
       }
     ]
   },
   "work": [
     {
-      "name": "Voltz",
-      "position": "Desarrollador Full-Stack",
-      "startDate": "2023-10-02",
-      "endDate": null,
-      "summary": "Desarrollo de una herramienta de cotización y e-commerce para la venta de material electrico, colaboré en el diseño e implementación de varias vistas e interfaces del e-commerce. Además, desarrollé scripts en TypeScript para gestionar nuestra base de datos Firebase a gran escala. También diseñé APIs para análisis exhaustivos de recolección de datos, implementé características de inteligencia artificial en un chatbot y rediseñé con éxito el proceso de pago para aumentar significativamente las tasas de conversión de ventas.",
+      "name": "Irontec",
+      "position": "Desarrolladora Full-Stack",
+      "startDate": "2024-09-16",
+      "endDate": "2025-06-06",
+      "summary": "Desarrollo de varias utilidades para una herramienta de gestión y asesoramiento patrimonial independiente, realicé además la implementación de varias vistas e interfaces del producto. Apliqué los estilos necesarios en cada componente. También tomé responsabilidad sobre el proyecto llevando la comunicación con el cliente y asegurandome de las necesidades que tenía.",
       "highlights": [""],
-      "isRemote": true
+      "isRemote": false
     },
     {
-      "name": "Luthor Solutions",
+      "name": "Talent Job BBK",
       "position": "Web Developer",
-      "startDate": "2023-06-02",
-      "endDate": "2023-10-02",
-      "summary": "Desarrollé APIs escalables con NestJS, integrando las bases de datos Neo4J, SQL, Firebase y SQLite. Creé microservicios para correos, autenticación, informes y almacenamiento utilizando Firebase y Cloudflare R2. Implementé Google Analytics para el seguimiento de datos en múltiples sitios web. Diseñé landing pages dinámicas y responsivas  con React, NextJS y Tailwind CSS, y converti diseños de Figma en sitios web interactivos. Construí aplicaciones web complejas utilizando React, Vite y Redux Toolkit para la gestión avanzada de estado y efectos secundarios.",
+      "startDate": "2024-04-08",
+      "endDate": "2024-04-22",
+      "summary": "Desarrollamos de forma asíncrona junto a los equipos de Marketing y Ciberseguridad una aplicación web para varios tipos de usuarios protegida con Json Web Token. Para ello utilizamos las tecnologías: React, MongoDB, Node.js, express y Sass. Creamos una arquitectura MVC con autenticación. Desarrollamos el diseño creado por el équipo de Marketing y creando landing pages responsives.",
       "highlights": [""],
       "isRemote": true
     }
   ],
   "education": [
     {
-      "institution": "Universidad Politécnica de Sinaloa",
-      "area": "Ingeniería en Tecnologías de la Información",
-      "startDate": "2020-08-20",
-      "endDate": "2023-07-10"
+      "institution": "C2B",
+      "area": "Desarrollo Web",
+      "startDate": "2024-05-20",
+      "endDate": "2024-09-10"
+    },
+    {
+      "institution": "BBK Bootcamps The Bridge",
+      "area": "FullStack Development",
+      "startDate": "2023-09-20",
+      "endDate": "2024-05-10"
+    },
+    {
+      "institution": "IFAP Centro de Formación",
+      "area": "Desarrollo de aplicaciones Web",
+      "startDate": "2023-02-20",
+      "endDate": "2023-05-30"
     }
   ],
   "certificates": [
     {
-      "name": "Desarrollo de Aplicaciones Neo4j con TypeScript",
-      "date": "2024-01-26",
-      "organization": "Neo4j GraphAcademy",
-      "url": "https://graphacademy.neo4j.com/c/39a38074-f78a-4476-b185-224f6280781e/"
+      "name": "Certificado de Nivel Intermedio de Inglés (B2)",
+      "date": "2020-11-17",
+      "organization": "Gobierno Vasco",
+      "url": "https://drive.google.com/file/d/1Rg41tSt1Sr0jq_O6fSJF4iFvsXlGwLLF/view?usp=sharing"
     },
     {
-      "name": "Introducción al Desarrollo Web II",
-      "date": "2021-12-02",
-      "organization": "Google, Universidad de Alicante",
-      "url": "https://drive.google.com/file/d/16Q-7lxWhN3X8MnIWxV7z1I9OXaTXugwz/view?usp=sharing"
+      "name": "Diplôme d'etudes en Langue Française DELF B2",
+      "date": "2019-03-25",
+      "organization": "Ministère de l'Éducation nationale et de la Jeunesse",
+      "url": "https://drive.google.com/file/d/15Bja_zuNnZRHTFfuUBaG6vHJ4ZleiQoM/view?usp=sharing"
     },
     {
-      "name": "Introducción al Desarrollo Web I",
-      "date": "2021-11-25",
-      "organization": "Google, Universidad de Alicante",
-      "url": "https://drive.google.com/file/d/1D2yXuSt64IOwhvCbvreHXzRkIfhW3IGu/view?usp=sharing"
+      "name": "Desarrollo Web Full Stack",
+      "date": "2024-04-19",
+      "organization": "BBK Bootcamps The Bridge",
+      "url": "https://drive.google.com/file/d/1gk6gfFMtc2XRH76N9aFQCKug8DYnqB5B/view?usp=sharing"
+    },
+    {
+      "name": "Full Stack Developer JavaScript y Python",
+      "date": "2024-11-26",
+      "organization": "Diputación foral de Bizkaia",
+      "url": "https://drive.google.com/file/d/1yPMLxsJqJ3q-ox_5x1gkwylF3IzqxVfk/view?usp=sharing"
+    },
+   {
+      "name": "Desarrollo de aplicaciones con tecnologías Web",
+      "date": "2023-09-11",
+      "organization": "Gobierno Vasco",
+      "url": "https://drive.google.com/file/d/1HM2xL51bcub9m_CGIgsMg2XLMiDvB0x-/view?usp=sharing"
     }
   ],
   "skills": [
@@ -93,37 +112,28 @@
       "name": "HTML"
     },
     {
-      "name": "CSS / Tailwind CSS"
+      "name": "CSS / Sass"
     },
     {
       "name": "JavaScript / TypeScript"
     },
     {
-      "name": "Git / GitHub"
+      "name": "Git / GitHub / GitLab"
     },
     {
-      "name": "Node.js / Express.js / NestJS"
+      "name": "Node.js / Express.js"
     },
     {
-      "name": "SQL / SQLite / Drizzle"
+      "name": "SQL / SQLite / MySQL"
     },
     {
-      "name": "Firebase"
+      "name": "Angular / Rxjs"
     },
     {
-      "name": "Neo4J"
-    },
-    {
-      "name": "React / Next.js"
-    },
-    {
-      "name": "Astro"
+      "name": "React"
     },
     {
       "name": "Docker"
-    },
-    {
-      "name": "Cloudflare / Vercel / Google Cloud"
     }
   ],
   "softskills": [
@@ -131,10 +141,7 @@
       "name": "Resolución de problemas"
     },
     {
-      "name": "Comunicación"
-    },
-    {
-      "name": "Liderazgo"
+      "name": "Escucha activa"
     },
     {
       "name": "Trabajo en equipo"
@@ -143,27 +150,27 @@
       "name": "Pensamiento crítico"
     },
     {
-      "name": "Mentalidad de crecimiento"
+      "name": "Curiosidad"
     },
     {
-      "name": "Gestión del tiempo"
+      "name": ""
     },
     {
-      "name": "Innovación"
+      "name": ""
     }
   ],
   "projects": [
     {
-      "name": "Aura Series API",
+      "name": "BBK Talent Job",
       "isActive": true,
-      "description": "API para Aura Series, una plataforma de redes sociales para compartir y descubrir nuevas series, con funciones de búsqueda y recomendación.",
+      "description": "Aplicación Web PI para Aura Series, una plataforma de redes sociales para compartir y descubrir nuevas series, con funciones de búsqueda y recomendación.",
       "highlights": [
-        "Gran base de usuarios",
-        "NestJS & Neo4J",
-        "Envío de correos",
+        "MongoDB",
+        "JSON Web Token",
+        "Bcrypt",
         "Autenticación"
       ],
-      "url": "https://www.auraseries.com/"
+      "github":"https://github.com/olatzgoti/Desafio-BBK"
     },
     {
       "name": "Blog Personal",
