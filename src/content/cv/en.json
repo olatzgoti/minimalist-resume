@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Olatz Goti",
-    "label": "Web Developer Junior with a Backend focus, specializing in web development and dedicated to creating impactful and functional digital experiences",
+    "label": "Web Developer passionate about technology and understanding how things work, looking for a job opportunity, either as an employee or self-employed.",
     "image": "/me.png",
     "email": "gotiolatz@gmail.com",
     "phone": "+34 620801984",
@@ -40,7 +40,7 @@
       "position": "Full-Stack Developer",
       "startDate": "2024-04-08",
       "endDate": "2024-04-22",
-      "summary": " developed several utilities for an independent asset management and advisory tool, and also implemented various views and interfaces for the product. I applied the necessary styles to each component. I also took responsibility for the project, communicating with the client and ensuring that their needs were met.",
+      "summary": "We developed several utilities for an independent asset management and advisory tool, and also implemented various views and interfaces for the product. I applied the necessary styles to each component. I also took responsibility for the project, communicating with the client and ensuring that their needs were met.",
       "highlights": [""],
       "isRemote": false
     },
@@ -146,46 +146,33 @@
       "name": "Innovation"
     }
   ],
-  "projects": [
+  "projects": {
+  "message": "DISCLAIMER: Últimamente he estado centrada en trabajar y la búsqueda de empleo, por ello los projectos mostrados son de mi etapa formativa y no reflejan mi nivel actual. A medida que finalice los que estoy creando iré actualizándolos.",
+  "items": [
     {
-      "name": "Aura Series API",
+      "name": "BBK Talent Job",
       "isActive": true,
-      "description": "API for Aura Series, a social media platform for sharing and discovering new series, with search and recommendation features.",
-      "highlights": [
-        "Massive user base",
-        "NestJS & Neo4J",
-        "Mailing",
-        "Authentication"
-      ],
-      "url": "https://www.auraseries.com/"
+      "description": "BBK Talent Job Web Application, a youth employment platform with various types of users so that companies and talent can find each other, network, and gain initial work experience.",
+      "highlights": ["MongoDB",
+      "JSON Web Token",
+      "Bcrypt",
+      "Autenticación"],
+      "github":"https://github.com/olatzgoti/Desafio-BBK"
     },
     {
-      "name": "Personal Blog",
+      "name": "Social Media React",
       "isActive": true,
-      "description": "My personal blog where I share my experiences and knowledge about web development, productivity and other interesting topics.",
-      "highlights": [
-        "Multilanguage",
-        "SEO optimized",
-        "100/100 Lighthouse score",
-        "PWA Ready",
-        "Astro"
-      ],
-      "url": "https://blog.ingcapadev.com/",
+      "description": "My personal blog ...",
+      "highlights": ["Multilanguage","SEO optimized","100/100 Lighthouse score","PWA Ready","Astro"],
       "github": "https://github.com/INGCapaDev/my-blog"
     },
     {
       "name": "JB Baseball Game",
       "isActive": true,
-      "description": "A baseball game simulator, which allow you to mark all the plays available in a baseball game and save a record of the players' plays.",
-      "highlights": [
-        "Fullscreen oriented",
-        "Sound effects",
-        "Complex state management",
-        "React",
-        "Redux Toolkit"
-      ],
-      "url": "https://baseball-game-react.vercel.app/",
+      "description": "A baseball game simulator, ...",
+      "highlights": ["Fullscreen oriented","Sound effects","Complex state management","React","Redux Toolkit"],
       "github": "https://github.com/INGCapaDev/baseball-game-react"
     }
   ]
+}
 }

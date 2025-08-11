@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Olatz Goti",
-    "label": "Web Developer Junior, apasionada por la tecnología y comprender el funcionamiento de las cosas, en búsqueda de una oportunidad laboral, ya sea por cuenta ajena o por propia.",
+    "label": "Web Developer apasionada por la tecnología y comprender el funcionamiento de las cosas, en búsqueda de una oportunidad laboral, ya sea por cuenta ajena o por propia.",
     "image": "/me.png",
     "email": "gotiolatz@gmail.com",
     "phone": "+34 620801984",
@@ -42,7 +42,7 @@
       "startDate": "2024-09-16",
       "endDate": "2025-06-06",
       "summary": "Desarrollo de varias utilidades para una herramienta de gestión y asesoramiento patrimonial independiente, realicé además la implementación de varias vistas e interfaces del producto. Apliqué los estilos necesarios en cada componente. También tomé responsabilidad sobre el proyecto llevando la comunicación con el cliente y asegurandome de las necesidades que tenía.",
-      "highlights": [""],
+      "highlights": ["remote"],
       "isRemote": false
     },
     {
@@ -163,7 +163,7 @@
     {
       "name": "BBK Talent Job",
       "isActive": true,
-      "description": "Aplicación Web PI para Aura Series, una plataforma de redes sociales para compartir y descubrir nuevas series, con funciones de búsqueda y recomendación.",
+      "description": "Aplicación Web BBK Talent Job, una plataforma de empleo jóven con varios tipos de usuarios para que empresas y talento se puedan encontrar, hacer networking y lograr una primera experiencia laboral.",
       "highlights": [
         "MongoDB",
         "JSON Web Token",
@@ -183,7 +183,7 @@
         "Preparado para PWA",
         "Astro"
       ],
-      "url": "https://blog.ingcapadev.com/es",
+    
       "github": "https://github.com/INGCapaDev/my-blog"
     },
     {
@@ -197,8 +197,7 @@
         "React",
         "Redux Toolkit"
       ],
-      "url": "https://baseball-game-react.vercel.app/",
-      "github": "https://github.com/INGCapaDev/baseball-game-react"
+        "github": "https://github.com/INGCapaDev/baseball-game-react"
     }
   ]
 }
