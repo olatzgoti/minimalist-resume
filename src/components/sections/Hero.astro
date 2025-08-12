@@ -101,30 +101,14 @@ const redirectURL = lang === 'en' ? '/es' : '/';
 
   document.addEventListener('astro:page-load', () => {
     const webUrl = document.getElementById('web-url');
-    const currentUrl = new URL(window.location.href);
-    const lang = getLangFromUrl(currentUrl);
- //   const lang = getLangFromUrl(new URL(window.location.href));
- let correctUrl;
- const baseUrl = 'https://olatzgoti.github.io/minimalist-resume';
- const currentPath = currentUrl.pathname.replace('/minimalist-resume', '');
-  if (lang === 'es') {
-    correctUrl = baseUrl + '/es' + (currentPath === '/es' || currentPath === '/es/' ? '/' : currentPath.replace('/es', ''));
-  } else {
-    correctUrl = baseUrl + (currentPath.startsWith('/es') ? currentPath.replace('/es', '') : currentPath);
-  }
-  
-  // Si estamos en la raíz, asegurar formato correcto
-  if (correctUrl.endsWith('/minimalist-resume')) {
-    correctUrl += '/';
-  }
+    const lang = getLangFromUrl(new URL(window.location.href));
     const websiteMsg = {
       en: 'See the web version at:',
       es: 'Ver la versión web en:',
     };
 
-
     if (webUrl) {
-      webUrl.innerText = `${websiteMsg[lang]} ${correctUrl}`;
+      webUrl.innerText = `${websiteMsg[lang]} ${window.location.href}`;
     }
   });
 </script>
