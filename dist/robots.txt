@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olatzgoti.site/sitemap-index.xml
