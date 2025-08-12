@@ -31,7 +31,13 @@
         "network": "LinkedIn",
         "username": "olatzgoti",
         "url": "https://www.linkedin.com/in/olatzgoti/"
+      },
+      {
+        "network": "Youtube",
+        "username": "olatzgoti",
+        "url": "https:www.youtube.com/"
       }
+
     ]
   },
   "work": [
@@ -74,7 +80,7 @@
       "endDate": "2023-05-30"
     }
   ],
-  
+
   "certificates": [
     {
       "name": "Certificado de Nivel Intermedio de Inglés (B2)",
