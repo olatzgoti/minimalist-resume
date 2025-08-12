@@ -31,11 +31,6 @@
         "network": "LinkedIn",
         "username": "olatzgoti",
         "url": "https://www.linkedin.com/in/olatzgoti/"
-      },
-      {
-        "network": "Youtube",
-        "username": "olatzgoti",
-        "url": "https:www.youtube.com/"
       }
 
     ]
@@ -114,26 +109,23 @@
     }
   ],
   "skills": [
-    {
-      "name": "HTML"
-    },
-    {
-      "name": "CSS / Sass"
+    { 
+      "name": "Angular"
     },
     {
       "name": "JavaScript / TypeScript"
     },
     {
-      "name": "Git / GitHub / GitLab"
-    },
+      "name": "HTML / CSS / Sass"
+    },   
     {
-      "name": "Node.js / Express.js"
+      "name": "Strapi / Node.js / Express.js"
     },
     {
       "name": "SQL / SQLite / MySQL"
     },
     {
-      "name": "React / Next.js"
+      "name": "Git / GitHub / GitLab"
     },
     {
       "name": "Docker"
@@ -142,9 +134,6 @@
   "softskills": [
     {
       "name": "Problem-solving"
-    },
-    {
-      "name": "Communication"
     },
     {
       "name": "Active listening"
@@ -163,7 +152,7 @@
     }
   ],
   "projects": {
-  "message": "DISCLAIMER: Lately, I have been focused on work and job hunting, so the projects shown are from my training period and do not reflect my current level. As I finish the ones I am creating, I will update them.",
+  "message": "DISCLAIMER: En la última temporada he estado centrada en el trabajo y actualmente en su búsqueda. Por ello los proyectos mostrados son de la etapa de aprendizaje y no muestran mis conocimientos actuales. A medida que termine aquellos en los que estoy creando los iré actualizando.",
   "items": [
     {
       "name": "BBK Talent Job",

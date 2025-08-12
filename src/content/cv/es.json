@@ -8,13 +8,13 @@
     "url": "https://olatzgoti.site",
     "summary": [
       {
-        "paragraph": "Me considero una persona curiosa 🔍(tanto que mi sueño es ser investigadora privada), con capacidad de escucha e iniciativa. No lo sé todo pero mi pasión es solucionar problemas 💡, buscar los recursos necesarios para extraer la información y codificar una solución que mejore el producto o colabore para facilitar el trabajo a alguien. Soy realista y reflexiva, con muchas ganas de aprender y profundizar. Creo firmemente en el cambio constante desde una visión coherente, y en equipos donde se fomente la confianza y el aprendizaje mutuo."
+        "paragraph": "Me considero una persona curiosa (tanto que mi sueño es ser investigadora privada), con capacidad de escucha e iniciativa. No lo sé todo pero mi pasión es solucionar problemas, buscar los recursos necesarios para extraer la información y codificar una solución que mejore el producto o colabore para facilitar el trabajo a alguien. Soy realista y reflexiva, con muchas ganas de aprender y profundizar. Creo firmemente en el cambio constante desde una visión coherente, y en equipos donde se fomente la confianza y el aprendizaje mutuo."
       },
       {
-        "paragraph": "Comprometida con lo que pienso y con lo que hago, trabajo con foco y responsabilidad en cada proyecto, donde busco contribuir al equipo con soluciones concretas, pudiendo así contribuir en esta etapa de cambio y crecimiento que supone esta profesión, de una manera práctica, realista y eficaz 🚀 😊."
+        "paragraph": "Comprometida con lo que pienso y con lo que hago, trabajo con foco y responsabilidad en cada proyecto, donde busco contribuir al equipo con soluciones concretas, pudiendo así contribuir en esta etapa de cambio y crecimiento que supone esta profesión, de una manera práctica, realista y eficaz."
       },
       {
-        "paragraph": "Mi objetivo es continuar en el sector del desarrollo, profundizar y adquirir una mayor comprensión de los sistemas utilizados, también valoro mucho el hecho de crear comunidad dónde poder compartir nuestros avances y apoyarnos así que sientete libre de conectar conmigo 🤝."
+        "paragraph": "Mi objetivo es continuar en el sector del desarrollo, profundizar y adquirir una mayor comprensión de los sistemas utilizados, también valoro mucho el hecho de crear comunidad dónde poder compartir nuestros avances y apoyarnos así que sientete libre de conectar conmigo."
       }
     ],
 
@@ -108,29 +108,24 @@
     }
   ],
   "skills": [
+  
     {
-      "name": "HTML"
-    },
-    {
-      "name": "CSS / Sass"
+      "name": "Angular / Rxjs"
     },
     {
       "name": "JavaScript / TypeScript"
     },
     {
-      "name": "Git / GitHub / GitLab"
+      "name": "HTML / CSS / Sass"
     },
     {
-      "name": "Node.js / Express.js"
+      "name": "Strapi / Node.js / Express.js"
     },
     {
       "name": "SQL / SQLite / MySQL"
     },
     {
-      "name": "Angular / Rxjs"
-    },
-    {
-      "name": "React"
+      "name": "Git / GitHub / GitLab"
     },
     {
       "name": "Docker"
@@ -147,20 +142,16 @@
       "name": "Trabajo en equipo"
     },
     {
-      "name": "Pensamiento crítico"
+      "name": "Orientación al cliente"
     },
     {
       "name": "Curiosidad"
-    },
-    {
-      "name": ""
-    },
-    {
-      "name": ""
     }
   ],
-  "projects": [
-    {
+  "projects": {
+    "message": "DISCLAIMER: Lately, I have been focused on work and job hunting, so the projects shown are from my training period and do not reflect my current level. As I finish the ones I am creating, I will update them.",
+    "items":[
+      {
       "name": "BBK Talent Job",
       "isActive": true,
       "description": "Aplicación Web BBK Talent Job, una plataforma de empleo jóven con varios tipos de usuarios para que empresas y talento se puedan encontrar, hacer networking y lograr una primera experiencia laboral.",
@@ -173,7 +164,7 @@
       "github":"https://github.com/olatzgoti/Desafio-BBK"
     },
     {
-      "name": "Blog Personal",
+      "name": "Social_Media_React",
       "isActive": false,
       "description": "Frontend de una red social donde se pueden escribir posts, loguear, likearlos y subir imágenes.",
       "highlights":  ["Node.js","Express","Mongoose","React + Vite","Redux"],
@@ -188,4 +179,5 @@
         "github": "https://github.com/olatzgoti/SocialMedia-backend"
     }
   ]
+}
 }
