@@ -7,10 +7,16 @@ import robotsTxt from 'astro-robots-txt';
 export default defineConfig({
   site: 'https://olatzgoti.github.io',
   base: '/minimalist-resume',
+  trailingSlash: 'always',
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'es'],
+  
+    routing: {
+      prefixDefaultLocale: false
+    }
   },
+
   integrations: [
     sitemap({
       i18n: {
