@@ -8,13 +8,13 @@ export default defineConfig({
   site: 'https://olatzgoti.github.io',
   base: '/minimalist-resume',
   i18n: {
-    defaultLocale: 'es',
+    defaultLocale: 'en',
     locales: ['en', 'es'],
   },
   integrations: [
     sitemap({
       i18n: {
-        defaultLocale: 'es',
+        defaultLocale: 'en',
         locales: {
           es: 'es',
           en: 'en',
