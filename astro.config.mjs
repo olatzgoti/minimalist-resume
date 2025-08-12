@@ -19,6 +19,9 @@ export default defineConfig({
           es: 'es',
           en: 'en',
         },
+        routing: {
+          prefixDefaultLocale: false
+        }
       },
     }),
     robotsTxt(),
