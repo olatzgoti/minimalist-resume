@@ -5,8 +5,8 @@ import robotsTxt from 'astro-robots-txt';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://olatzgoti.github.io/minimalist-resume/',
-  base: '/dist',
+  site: 'https://olatzgoti.github.io',
+  base: '/minimalist-resume',
   i18n: {
     defaultLocale: 'es',
     locales: ['en', 'es'],
