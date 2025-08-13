@@ -11,6 +11,7 @@ interface Props {
 const { title, noindex } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+const base = import.meta.env.BASE_URL;
 ---
 
 <!doctype html>
@@ -22,7 +23,7 @@ const t = useTranslations(lang);
     <meta name='viewport' content='width=device-width' />
     <link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
     <link rel='icon' href='/favicon.ico' type='image/x-icon' />
-    <link rel='stylesheet' href='/css/variables.css' />
+    <link rel='stylesheet' href={base + '/css/variables.css'} />
     <!-- meta OG -->
     <meta property='og:site_name' content={title} />
     <meta property='og:title' content={title} />
@@ -31,7 +32,7 @@ const t = useTranslations(lang);
     <!-- Image to display -->
     <meta
       property='og:image'
-      content='https://ingcapadev.com/favicon-512x512.png'
+      content='https://olatzgoti.github.io/resume/favicon'
     />
 
     <!-- No need to change anything here -->
@@ -43,7 +44,7 @@ const t = useTranslations(lang);
     <meta property='og:image:height' content='300' />
 
     <!-- Website to visit when clicked in fb or WhatsApp-->
-    <meta property='og:url' content={'https://ingcapadev.com/'} />
+    <meta property='og:url' content={'https://https://olatzgoti.github.io/resume'} />
     <title>{title}</title>
 
     {noindex && <meta name='robots' content='noindex,nofollow' />}

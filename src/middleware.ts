@@ -4,7 +4,7 @@ import { getRelativeLocaleUrl } from 'astro:i18n';
 
 export const onRequest = defineMiddleware((context, next) => {
   const { pathname } = context.url;
-  const base = '/minimalist-resume';
+  const base = '/resume';
   
   // Redirigir /es a /minimalist-resume/es/
   if (pathname.startsWith('/es') && !pathname.startsWith(base)) {
