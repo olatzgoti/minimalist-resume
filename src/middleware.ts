@@ -1,5 +1,4 @@
 // src/middleware.js
-/*
 import { defineMiddleware } from 'astro:middleware';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 
@@ -15,4 +14,3 @@ export const onRequest = defineMiddleware((context, next) => {
   
   return next();
 });
-*/
