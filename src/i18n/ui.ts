@@ -1,6 +1,8 @@
 export const languages = {
   en: 'English',
   es: 'Español',
+  fr: 'Français',
+  eus: 'Euskera',
 };
 
 export const defaultLang = 'en';
@@ -72,4 +74,37 @@ export const ui = {
     'commands.toggleTheme': 'Cambiar tema',
     changeLanguage: 'Cambiar idioma',
   },
+  fr: {
+    title: 'CV de',
+    description:
+      "Découvrez l'expérience professionnelle, les projets et la formation d'Olatz grâce à ce CV web minimaliste et prêt à imprimer. Découvrez un aperçu complet de ses compétences, de ses réalisations et de son expérience en développement web. Que vous cherchiez à collaborer sur un projet ou à en savoir plus sur le parcours professionnel d'Álvaro, vous trouverez des informations détaillées et une navigation simple sur l'ensemble du site.",
+    'section.about': "À propos de moi",
+    'section.experience': "Expérience",
+    'section.education': "Formation",
+    'section.projects': "Projets",
+    'section.certifications': "Certifications",
+    'section.skills': "Technologies",
+    'section.softSkills': "Compétences relationnelles",
+    'hero.sendEmail': "Envoyez un e-mail à",
+    'hero.emailFollowing': "à l'adresse suivante :",
+    'hero.phone' : "Appeler",
+    'hero.phoneFollowing' : " au numéro suivant : ",
+    'hero.social' : "Visiter le profil de",
+    'hero.socialFollowing' : " en cliquant sur le lien suivant : ",
+    currentDateString : "Actuel",
+    remoteString : "À distance",
+    'projects.sourceCode' : "Voir le code source de",
+    'projects.sourceCodeFollowing' : ".",
+    'projects.link' : "Voir le projet",
+    'certificates.link' : "Voir le certificat de",
+    'commands.placeholder' : "Saisissez une commande ou une recherche :",
+    'commands.section.actions' : "Actions",
+    'commands.print' : "Imprimer",
+    'commands.language' : "Changer de langue",
+    'commands.footer.press' : "Appuyez sur",
+    'commands.footer.open' : "pour ouvrir la palette de commandes",
+    'commands.footer.mobile' : "Ouvrir la palette de commandes",
+    'commands.toggleTheme' : "Changer de thème",
+    changeLanguage : "Changer de langue",
+  }
 } as const;
