@@ -24,7 +24,6 @@ const SOCIAL_ICONS: Record<string, any> = {
   Youtube
 };
 
-//const base = import.meta.env.BASE_URL;
 const linkedInfo = profiles.find(({ network }) => network === 'LinkedIn');
 const githubInfo = profiles.find(({ network }) => network === 'GitHub');
 
@@ -38,9 +37,12 @@ const base = import.meta.env.BASE_URL;
 const redirectURL = (()=>{
     switch(lang){
       case 'en':
-      return `${base}es`;
+        return `${base}es`;
       case 'es':
-      return `${base}fr`;
+        console.log('url base' + base)
+        return `${base}fr`;
+      case 'fr':
+        return `${base}`;
       default:
         return `${base}`;
     }
