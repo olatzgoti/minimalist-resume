@@ -4,6 +4,7 @@ const { basics } = data as Resume;
 const { name, email, phone, image, label, location, profiles } = basics;
 const { city, region } = location;
 
+
 import type { Resume } from '@/content/config';
 import { getLangFromUrl, useTranslations } from '@/i18n/utils';
 import GitHub from '@icons/GitHub.astro';
@@ -15,7 +16,6 @@ import Language from '@icons/Language.astro';
 import X from '@icons/X.astro';
 import Youtube from '@icons/Youtube.astro';
 import ToggleTheme from '../ToggleTheme.astro';
-
 
 const SOCIAL_ICONS: Record<string, any> = {
   GitHub,
@@ -35,7 +35,17 @@ const printInfo = [email, phone, linkedInfo?.url, githubInfo?.url]
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const base = import.meta.env.BASE_URL;
-const redirectURL = lang === 'en' ? `${base}es` : '/';
+const redirectURL = (()=>{
+    switch(lang){
+      case 'en':
+      return `${base}es`;
+      case 'es':
+      return `${base}fr`;
+      default:
+        return `${base}`;
+    }
+  })
+
 ---
 
 <div class='container'>
@@ -87,7 +97,7 @@ const redirectURL = lang === 'en' ? `${base}es` : '/';
           );
         })
       }
-      <a href={redirectURL} title={t('changeLanguage')}>
+      <a href={redirectURL()} title={t('changeLanguage')}>
         <Language />
       </a>
       <ToggleTheme />
@@ -107,6 +117,7 @@ const redirectURL = lang === 'en' ? `${base}es` : '/';
     const websiteMsg = {
       en: 'See the web version at:',
       es: 'Ver la versión web en:',
+      fr: 'Voyez la version web: '
     };
 
     if (webUrl) {
