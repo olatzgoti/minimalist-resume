@@ -1,0 +1,183 @@
+{
+    "basics": {
+      "name": "Olatz Goti",
+      "label": "Teknologia maite duen eta gauzen funtzionamendua ulertzen duen Web Developer, lan-aukera baten bila, besteren kontura edo bere kabuz.",
+      "image": "me.png",
+      "email": "gotiolatz@gmail.com",
+      "phone": "+34 620801984",
+      "url": "https://olatzgoti.site",
+      "summary": [
+        {
+          "paragraph": "Kuriosoa naizela uste dut (nire ametsa detektibe pribatua izatea da), entzuteko eta ekimena izateko gaitasuna duena. Ez dakit dena, baina nire pasioa arazoak konpontzea da, informazioa ateratzeko beharrezko baliabideak bilatzea eta produktua hobetuko duen edo norbaiti lana errazten lagunduko dion irtenbide bat kodetzea. Errealista eta gogoetatsua naiz, ikasteko eta sakontzeko gogo handikoa. Tinko sinesten dut etengabeko aldaketan, ikuspegi koherente batetik, eta konfiantza eta elkarrekiko ikaskuntza sustatzen duten taldeetan."
+        },
+        {
+          "paragraph": "Pentsatzen dudanarekin eta egiten dudanarekin konprometituta, proiektu bakoitzean fokuz eta erantzukizunez lan egiten dut, eta taldeari irtenbide zehatzekin laguntzea bilatzen dut; horrela, lanbide honek dakarren aldaketa- eta hazkunde-etapa honetan lagundu ahal izango dut, modu praktiko, errealista eta eraginkorrean."
+        },
+        {
+          "paragraph": "Nire helburua garapenaren sektorean jarraitzea da, erabilitako sistemak sakontzea eta hobeto ulertzea. Era berean, asko baloratzen dut komunitatea sortzea, gure aurrerapenak partekatu ahal izateko eta, horrela, nirekin konektatzeko libre senti zaitezen."
+        }
+      ],
+  
+      "location": {
+        "city": "Bilbao",
+        "region": "Bizkaia"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "olatzgoti",
+          "url": "https://github.com/olatzgoti"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "olatzgoti",
+          "url": "https://www.linkedin.com/in/olatzgoti/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Irontec",
+        "position": "Desarrolladora Full-Stack",
+        "startDate": "2024-09-16",
+        "endDate": "2025-06-06",
+        "summary": "Ondare-kudeaketako eta -aholkularitzako tresna independente baterako hainbat utilitate garatzea, eta, gainera, produktuaren hainbat bista eta interfaze inplementatzea. Osagai bakoitzean beharrezko estiloak aplikatu nituen. Proiektuarekiko erantzukizuna ere hartu nuen, bezeroarekiko komunikazioa eramanez eta nituen beharrak ziurtatuz.",
+        "highlights": ["remote"],
+        "isRemote": false
+      },
+      {
+        "name": "Talent Job BBK",
+        "position": "Web Developer",
+        "startDate": "2024-04-08",
+        "endDate": "2024-04-22",
+        "summary": "Modu asinkronoan garatzen genuen, Marketineko eta Zibersegurtasuneko ekipoekin batera, Json Web Token babestutako hainbat erabiltzaile-motarentzako web-aplikazio bat. Horretarako, React, MongoDB, Node.js, Express eta Sass teknologiak erabili genituen. MVC arkitektura sortu genuen autentifikazioarekin. Marketin-taldeak sortutako diseinua garatzu genuen eta landing pages responsives sortu genuen.",
+        "highlights": [""],
+        "isRemote": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "C2B",
+        "area": "Desarrollo Web",
+        "startDate": "2024-05-20",
+        "endDate": "2024-09-10"
+      },
+      {
+        "institution": "BBK Bootcamps The Bridge",
+        "area": "FullStack Development",
+        "startDate": "2023-09-20",
+        "endDate": "2024-05-10"
+      },
+      {
+        "institution": "IFAP Centro de Formación",
+        "area": "Desarrollo de aplicaciones Web",
+        "startDate": "2023-02-20",
+        "endDate": "2023-05-30"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Certificado de Nivel Intermedio de Inglés (B2)",
+        "date": "2020-11-17",
+        "organization": "Gobierno Vasco",
+        "url": "https://drive.google.com/file/d/1Rg41tSt1Sr0jq_O6fSJF4iFvsXlGwLLF/view?usp=sharing"
+      },
+      {
+        "name": "Diplôme d'etudes en Langue Française DELF B2",
+        "date": "2019-03-25",
+        "organization": "Ministère de l'Éducation nationale et de la Jeunesse",
+        "url": "https://drive.google.com/file/d/15Bja_zuNnZRHTFfuUBaG6vHJ4ZleiQoM/view?usp=sharing"
+      },
+      {
+        "name": "Desarrollo Web Full Stack",
+        "date": "2024-04-19",
+        "organization": "BBK Bootcamps The Bridge",
+        "url": "https://drive.google.com/file/d/1gk6gfFMtc2XRH76N9aFQCKug8DYnqB5B/view?usp=sharing"
+      },
+      {
+        "name": "Full Stack Developer JavaScript y Python",
+        "date": "2024-11-26",
+        "organization": "Diputación foral de Bizkaia",
+        "url": "https://drive.google.com/file/d/1yPMLxsJqJ3q-ox_5x1gkwylF3IzqxVfk/view?usp=sharing"
+      },
+     {
+        "name": "Desarrollo de aplicaciones con tecnologías Web",
+        "date": "2023-09-11",
+        "organization": "Gobierno Vasco",
+        "url": "https://drive.google.com/file/d/1HM2xL51bcub9m_CGIgsMg2XLMiDvB0x-/view?usp=sharing"
+      }
+    ],
+    "skills": [
+    
+      {
+        "name": "Angular / Rxjs"
+      },
+      {
+        "name": "JavaScript / TypeScript"
+      },
+      {
+        "name": "HTML / CSS / Sass"
+      },
+      {
+        "name": "Strapi / Node.js / Express.js"
+      },
+      {
+        "name": "SQL / SQLite / MySQL"
+      },
+      {
+        "name": "Git / GitHub / GitLab"
+      },
+      {
+        "name": "Docker"
+      }
+    ],
+    "softskills": [
+      {
+        "name": "Problemak ebaztea"
+      },
+      {
+        "name": "Entzute aktiboa"
+      },
+      {
+        "name": "Talde-lana"
+      },
+      {
+        "name": "Bezeroarenganako orientazioa"
+      },
+      {
+        "name": "Jakin-mina"
+      }
+    ],
+    "projects": {
+      "message": "AVISO: Azkenaldian, lanean eta lan ehizan aritu naiz buru-belarri, beraz, aurkeztutako proiektuak nire prestakuntza garaikoak dira eta ez dute nire egungo maila islatzen. Sortzen ari naizena amaitzean, eguneratu egingo ditut.",
+      "items":[
+        {
+        "name": "BBK Talent Job",
+        "isActive": true,
+        "description": "Aplicación Web BBK Talent Job, enpleguk gazteentzako plataforma bat enpresa eta gazteentzat, sare bat egitea eta lehen esperientzia laboral bat egitea.",
+        "highlights": [
+          "MongoDB",
+          "JSON Web Token",
+          "Bcrypt",
+          "Autenticación"
+        ],
+        "github":"https://github.com/olatzgoti/Desafio-BBK"
+      },
+      {
+        "name": "Social_Media_React",
+        "isActive": false,
+        "description": "Sare sozial baten frontend, non postak idatz daitezkeen, logueatu, likeatu eta irudiak igo.",
+        "highlights":  ["Node.js","Express","Mongoose","React + Vite","Redux"],
+      
+        "github": "https://github.com/olatzgoti/Social_Media_React"
+      },
+      {
+        "name": "SocialMedia-backend",
+        "isActive": false,
+        "description": "Frameworkaren oinarriak ikasteko React duen sare sozialeko proiektua.",
+        "highlights":  ["User registration", "CRUD", "Validations", "Multer", "Like/Remove/Update post"],
+          "github": "https://github.com/olatzgoti/SocialMedia-backend"
+      }
+    ]
+  }
+  }
