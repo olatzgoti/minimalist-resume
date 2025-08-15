@@ -42,6 +42,8 @@ const redirectURL = (()=>{
         console.log('url base' + base)
         return `${base}fr`;
       case 'fr':
+        return `${base}eus`;
+      case 'eus':
         return `${base}`;
       default:
         return `${base}`;
@@ -119,7 +121,8 @@ const redirectURL = (()=>{
     const websiteMsg = {
       en: 'See the web version at:',
       es: 'Ver la versión web en:',
-      fr: 'Voyez la version web: '
+      fr: 'Voyez la version web: ',
+      eus: 'Ikusi web bertsioa'
     };
 
     if (webUrl) {

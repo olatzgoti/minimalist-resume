@@ -106,5 +106,41 @@ export const ui = {
     'commands.footer.mobile' : "Ouvrir la palette de commandes",
     'commands.toggleTheme' : "Changer de thème",
     changeLanguage : "Changer de langue",
+  },
+  eus: {
+
+    title: 'CV de',
+    description:
+      "Ezagutu Olatzen esperientzia profesionala, proiektuak eta formakuntza web curriculum minimalista eta inprimatzeko prest honi esker. Bere abilezien, lorpenen eta web garapenean duen esperientziaren ikuspegi osoa ezagutu. Proiektu batean laguntzea edo Alvaroren ibilbide profesionalari buruz gehiago jakitea nahi baduzu, informazio zehatza eta nabigazio erraza aurkituko dituzu webgune osoan.",
+    'section.about': "À propos de moi",
+    'section.experience': "Esperientzia",
+    'section.education': "Formakuntza",
+    'section.projects': "Proiektuak",
+    'section.certifications': "Ziurtapenak",
+    'section.skills': "Teknologiak",
+    'section.softSkills': "Harremanetarako trebetasunak",
+    'hero.sendEmail': "Bidali e-maila",
+    'hero.emailFollowing': "Helbide honetan",
+    'hero.phone' : "Deitu",
+    'hero.phoneFollowing' : "Hurrengo zenbakira",
+    'hero.social' : "Bisitatzea",
+    'hero.socialFollowing' : "esteka honetan klik eginez:",
+    currentDateString : "Aktuala",
+    remoteString : "Urrutitik",
+    'projects.sourceCode' : "Ikusi iturburu-kodea",
+    'projects.sourceCodeFollowing' : ".",
+    'projects.link' : "Proiektua ikusi",
+    'certificates.link' : "Ikusi ziurtagiria",
+    'commands.placeholder' : "Idatzi eskaera edo bilaketa bat:",
+    'commands.section.actions' : "Akzioiak",
+    'commands.print' : "Imprimatu",
+    'commands.language' : "Hizkuntza aldatzea",
+    'commands.footer.press' : "Sakatu",
+    'commands.footer.open' : "aginte-paleta irekitzeko",
+    'commands.footer.mobile' : "Aginte paleta ireki",
+    'commands.toggleTheme' : "Gaia aldatu",
+    changeLanguage : "Hizkuntza aldatzea",
+
+
   }
 } as const;

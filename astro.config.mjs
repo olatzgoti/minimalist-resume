@@ -8,7 +8,7 @@ export default defineConfig({
   site: 'https://olatzgoti.site',
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'es', 'fr'],
+    locales: ['en', 'es', 'fr', 'eus'],
   },
   integrations: [
     sitemap({
@@ -18,6 +18,7 @@ export default defineConfig({
           es: 'es',
           en: 'en',
           fr: 'fr',
+          eus: 'eus',
         },
         routing: {
           prefixDefaultLocale: false
