@@ -112,7 +112,7 @@ export const ui = {
     title: 'CV de',
     description:
       "Ezagutu Olatzen esperientzia profesionala, proiektuak eta formakuntza web curriculum minimalista eta inprimatzeko prest honi esker. Bere abilezien, lorpenen eta web garapenean duen esperientziaren ikuspegi osoa ezagutu. Proiektu batean laguntzea edo Alvaroren ibilbide profesionalari buruz gehiago jakitea nahi baduzu, informazio zehatza eta nabigazio erraza aurkituko dituzu webgune osoan.",
-    'section.about': "À propos de moi",
+    'section.about': "Niri buruz",
     'section.experience': "Esperientzia",
     'section.education': "Formakuntza",
     'section.projects': "Proiektuak",
