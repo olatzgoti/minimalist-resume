@@ -42,6 +42,15 @@
   },
   "work": [
     {
+      "name": "Inetum",
+      "position": "Operadora en soporte de sistemas",
+      "startDate": "2025-10-13",
+      "endDate": "actualmente",
+      "summary": "Operadora en proyecto Iberdrola, monitorizando sistemas, escalado y creación de incidencias en servicio 24 x 7",
+      "highlights": [""],
+      "isRemote": false
+    },
+    {
       "name": "Irontec",
       "position": "Desarrolladora Full-Stack",
       "startDate": "2024-09-16",
