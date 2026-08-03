@@ -42,6 +42,15 @@
   },
   "work": [
     {
+      "name": "Inetum",
+      "position": "Operadora L1",
+      "startDate": "2025-10-13",
+      "endDate": "actualmente",
+      "summary": "Operadora en soporte de sistemas L1 para proyecto Iberdrola, seguimiento de alertas mediante sistemas automatizados, creación de incidencias. Atención de servicios de España, Escocia y USA.",
+      "highlights": [""],
+      "isRemote": false
+    },
+    {
       "name": "Irontec",
       "position": "Desarrolladora Full-Stack",
       "startDate": "2024-09-16",
