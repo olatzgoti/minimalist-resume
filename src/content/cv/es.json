@@ -43,10 +43,11 @@
   "work": [
     {
       "name": "Inetum",
-      "position": "Operadora L1",
+        
+      "position": "Operadora en soporte de sistemas",
       "startDate": "2025-10-13",
       "endDate": "actualmente",
-      "summary": "Operadora en soporte de sistemas L1 para proyecto Iberdrola, seguimiento de alertas mediante sistemas automatizados, creación de incidencias. Atención de servicios de España, Escocia y USA.",
+      "summary": "Operadora en proyecto Iberdrola, monitorizando sistemas, escalado y creación de incidencias en servicio 24 x 7 para España, Escocia y USA.",
       "highlights": [""],
       "isRemote": false
     },
