@@ -41,6 +41,17 @@
     ]
   },
   "work": [
+
+    {
+      "name": "Inetum",
+        
+      "position": "IT Support Operator",
+      "startDate": "2025-10-13",
+      "endDate": "currently",
+      "summary": "IT Support Operator at Iberdrola project.",
+      "highlights": [""],
+      "isRemote": false
+    },
     {
       "name": "Irontec",
       "position": "Full-Stack Developer",
